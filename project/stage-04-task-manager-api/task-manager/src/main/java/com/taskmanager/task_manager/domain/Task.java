@@ -1,4 +1,4 @@
-﻿package com.taskmanager.task_manager.domain;
+package com.taskmanager.task_manager.domain;
 
 import jakarta.persistence.*;
 import lombok.AccessLevel;

@@ -1,4 +1,4 @@
-﻿package com.taskmanager.task_manager.service;
+package com.taskmanager.task_manager.service;
 
 import com.taskmanager.task_manager.domain.Task;
 import com.taskmanager.task_manager.domain.TaskStatus;
