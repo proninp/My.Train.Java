@@ -1,4 +1,4 @@
-﻿package main.java.my.arraylist;
+package my.arraylist;
 
 public interface MyList<T> {
     void add(T element);

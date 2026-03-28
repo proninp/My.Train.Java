@@ -1,4 +1,4 @@
-﻿package main.java.my.arraylist;
+package my.arraylist;
 
 public class MyArrayList<T> implements MyList<T> {
     
